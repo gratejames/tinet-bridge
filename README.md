@@ -1,3 +1,5 @@
+I should add a disclaimer here: this by saying that this isn't my project or code. I seem to have forked it at some point, though it's been long enough I don't remember fron where, and the original has since been taken down. Feel free to use, but I won't be responding to anything or maintaining this.
+
 # TI-84 Plus CE Net Bridge
 This program makes the connection between your calculator and our main servers possible!  
 [![wakatime](https://wakatime.com/badge/github/tkbstudios/tinet-bridge.svg)](https://wakatime.com/badge/github/tkbstudios/tinet-bridge)
